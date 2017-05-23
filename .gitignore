@@ -1,4 +1,3 @@
-#忽略提交的文件
 .gradle/*
 .idea/*
 build/*
